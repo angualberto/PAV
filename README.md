@@ -128,6 +128,5 @@ Se quiser, eu posso:
 - abrir um PR com melhorias (por exemplo usar marshmallow/pydantic para
 	schemas).
 
-Licença: MIT (adapte conforme necessário)
 
 
