@@ -122,11 +122,6 @@ git push -u origin main
 - Erro: permissão ao criar arquivos — verifique permissões da pasta e venv.
 
 ---
-Se quiser, eu posso:
-- gerar/atualizar `requirements.txt` e commitar aqui, ou
-- adicionar exemplos de serialização nos controllers (`resources/`), ou
-- abrir um PR com melhorias (por exemplo usar marshmallow/pydantic para
-	schemas).
 
 
 
